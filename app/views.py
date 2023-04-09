@@ -15,7 +15,7 @@ def insertTopic(request):
 def insertWebpage(request):
 
     tn=input('enter topic_name:')
-
+    
     n=input('enter name:')
     u=input('enter url:')
 
